@@ -1,10 +1,16 @@
-# Code-Race-2026-P.X.G
-Projeto da equipe P.X.G (Program X Generation) sobre o tema de "Soluções tecnológicas para o agronegócio e a cadeia produtiva" da Code Race 2026.
-Utilize o "Sinos Inteligentes.HTML" para acessar o "sobre" do projeto de nossa equipe.
+# 🏆 Code Race 2026 — Equipe P.X.G
+
+Projeto desenvolvido para a competição Code Race 2026 no tema:
+
+**"Soluções tecnológicas para o agronegócio e a cadeia produtiva"**
+
+Nosso projeto apresenta uma solução inteligente para monitoramento e conservação de grãos armazenados, utilizando sensores, Internet das Coisas (IoT) e Inteligência Artificial.
+Utilize o arquivo "Silos Inteligentes.HTML" para acessar o "sobre" do projeto de nossa equipe.
+
 #  Silos Inteligentes
 
-> Sistema de monitoramento inteligente para armazenamento de grãos utilizando sensores, Internet das Coisas (IoT) e Inteligência Artificial.
-
+> Solução tecnológica para monitoramento inteligente de grãos utilizando IoT, sensores e Inteligência Artificial, reduzindo perdas pós-colheita e promovendo a sustentabilidade no agronegócio.
+> 
 ##  CodeRace
 
 Projeto desenvolvido para a competição **CodeRace**, com o objetivo de apresentar uma solução tecnológica para reduzir perdas pós-colheita, aumentar a eficiência do armazenamento agrícola e promover a sustentabilidade no agronegócio.
@@ -36,6 +42,8 @@ Quando valores inadequados são detectados, o sistema pode emitir alertas e auxi
 * Automatizar o monitoramento do armazenamento;
 * Auxiliar produtores na tomada de decisões;
 * Promover práticas agrícolas mais sustentáveis.
+  
+## Técnologias Utilizadas
 
 ###  Sensores de Temperatura
 
@@ -113,9 +121,13 @@ As próximas evoluções incluem:
 * Integração com plataformas agrícolas inteligentes;
 * Expansão para diferentes tipos de armazenamento.
 
-##  Equipe
+##  Equipe P.X.G
 
-* P.X.G
+- Fernanda Willers
+- Rafaela Follmann
+- Guilherme Wolmann
+- Calebe Molozzi
+- Luna Percincula
 
 ##  Licença
 
