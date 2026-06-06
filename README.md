@@ -132,3 +132,7 @@ As próximas evoluções incluem:
 ##  Licença
 
 Projeto desenvolvido para fins educacionais e apresentação na competição CodeRace.
+
+
+[PXG.pdf](https://github.com/user-attachments/files/28659706/PXG.pdf)
+
